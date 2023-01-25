@@ -1,0 +1,16 @@
+C:\Users\kkara\OneDrive\Masaüstü\SanlabCase\SanlabCase.Client\bin\Debug\net5.0\SanlabCase.Client.exe
+C:\Users\kkara\OneDrive\Masaüstü\SanlabCase\SanlabCase.Client\bin\Debug\net5.0\SanlabCase.Client.deps.json
+C:\Users\kkara\OneDrive\Masaüstü\SanlabCase\SanlabCase.Client\bin\Debug\net5.0\SanlabCase.Client.runtimeconfig.json
+C:\Users\kkara\OneDrive\Masaüstü\SanlabCase\SanlabCase.Client\bin\Debug\net5.0\SanlabCase.Client.runtimeconfig.dev.json
+C:\Users\kkara\OneDrive\Masaüstü\SanlabCase\SanlabCase.Client\bin\Debug\net5.0\SanlabCase.Client.dll
+C:\Users\kkara\OneDrive\Masaüstü\SanlabCase\SanlabCase.Client\bin\Debug\net5.0\SanlabCase.Client.pdb
+C:\Users\kkara\OneDrive\Masaüstü\SanlabCase\SanlabCase.Client\obj\Debug\net5.0\SanlabCase.Client.csproj.AssemblyReference.cache
+C:\Users\kkara\OneDrive\Masaüstü\SanlabCase\SanlabCase.Client\obj\Debug\net5.0\SanlabCase.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkara\OneDrive\Masaüstü\SanlabCase\SanlabCase.Client\obj\Debug\net5.0\SanlabCase.Client.AssemblyInfoInputs.cache
+C:\Users\kkara\OneDrive\Masaüstü\SanlabCase\SanlabCase.Client\obj\Debug\net5.0\SanlabCase.Client.AssemblyInfo.cs
+C:\Users\kkara\OneDrive\Masaüstü\SanlabCase\SanlabCase.Client\obj\Debug\net5.0\SanlabCase.Client.csproj.CoreCompileInputs.cache
+C:\Users\kkara\OneDrive\Masaüstü\SanlabCase\SanlabCase.Client\obj\Debug\net5.0\SanlabCase.Client.dll
+C:\Users\kkara\OneDrive\Masaüstü\SanlabCase\SanlabCase.Client\obj\Debug\net5.0\refint\SanlabCase.Client.dll
+C:\Users\kkara\OneDrive\Masaüstü\SanlabCase\SanlabCase.Client\obj\Debug\net5.0\SanlabCase.Client.pdb
+C:\Users\kkara\OneDrive\Masaüstü\SanlabCase\SanlabCase.Client\obj\Debug\net5.0\SanlabCase.Client.genruntimeconfig.cache
+C:\Users\kkara\OneDrive\Masaüstü\SanlabCase\SanlabCase.Client\obj\Debug\net5.0\ref\SanlabCase.Client.dll
